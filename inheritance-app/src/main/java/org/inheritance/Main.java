@@ -8,6 +8,10 @@ import java.time.LocalDate;
 
 public class Main {
     public static void main(String[] args) {
+// prueba
+
+
+
 
         SunFlower sunFlowerGarden = new SunFlower("Sun flower1", ColorEnum.BLUE,1.5,Boolean.TRUE);
         if(sunFlowerGarden.getBloomDate()==null){
